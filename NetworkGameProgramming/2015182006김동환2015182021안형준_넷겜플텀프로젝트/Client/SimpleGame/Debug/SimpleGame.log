@@ -1,0 +1,16 @@
+﻿  ScnMgr.cpp
+d:\github\gamesogong\simplegame\scnmgr.cpp(49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(53): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(53): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(58): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(62): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(66): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(70): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(71): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(75): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(76): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(80): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(81): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(183): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+d:\github\gamesogong\simplegame\scnmgr.cpp(189): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+  SimpleGame.vcxproj -> D:\GitHub\GameSoGong\SimpleGame\Debug\SimpleGame.exe

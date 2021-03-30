@@ -1,0 +1,26 @@
+﻿  Renderer.cpp
+d:\github\gamesogong\simplegame\renderer.cpp(113): warning C4244: '인수': 'GLuint'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\renderer.cpp(114): warning C4244: '인수': 'GLuint'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\renderer.cpp(142): warning C4244: '인수': 'GLuint'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\renderer.cpp(143): warning C4244: '인수': 'GLuint'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\renderer.cpp(185): warning C4267: '=': 'size_t'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ScnMgr.cpp
+d:\github\gamesogong\simplegame\scnmgr.cpp(50): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(54): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(54): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(59): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(63): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(67): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(71): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(72): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(76): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(77): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(81): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(82): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\gamesogong\simplegame\scnmgr.cpp(183): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+d:\github\gamesogong\simplegame\scnmgr.cpp(189): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+  SimpleGame.cpp
+  코드를 생성하고 있습니다.
+  All 453 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  SimpleGame.vcxproj -> D:\GitHub\GameSoGong\x64\Release\SimpleGame.exe

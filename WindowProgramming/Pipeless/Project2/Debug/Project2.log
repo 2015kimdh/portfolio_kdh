@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\oh\source\repos\project2\project2\소스.cpp(93): warning C4804: '>': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  Project2.vcxproj -> C:\Users\oh\Source\Repos\Project2\Debug\Project2.exe
