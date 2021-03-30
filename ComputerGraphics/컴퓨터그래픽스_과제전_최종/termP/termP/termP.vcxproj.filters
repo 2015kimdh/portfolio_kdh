@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일\c_background">
+      <UniqueIdentifier>{b97bcab6-129b-46a7-a696-b7e4122621a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\c_ship">
+      <UniqueIdentifier>{161c32b2-6705-487c-87f5-682c4ceb3601}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\c_background\c_land">
+      <UniqueIdentifier>{d4550028-a9a9-495b-9811-c96a642751dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\c_background\c_sky">
+      <UniqueIdentifier>{f32c4ebe-0c29-401a-a04e-4200df8d7b7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\c_sound">
+      <UniqueIdentifier>{f395cf8a-f652-4b9c-891d-a486869e28ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\c_missile">
+      <UniqueIdentifier>{2abb1cd5-4db2-4c18-a578-8374ecde7075}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\c_light">
+      <UniqueIdentifier>{2822e49b-e4c5-443d-9f42-5091b569f8fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\objLoader">
+      <UniqueIdentifier>{75b32771-c8b3-4b47-8237-2fd715c7ba88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\Texture">
+      <UniqueIdentifier>{01c850a5-7993-4f76-8404-616a7b67d00e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\c_scene">
+      <UniqueIdentifier>{a7eb3fb7-bdc0-461b-9535-56ef26973377}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\c_ui">
+      <UniqueIdentifier>{8258a38d-4812-44ba-8980-db0f6ddbd561}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\c_weather">
+      <UniqueIdentifier>{fbd973cc-5ae0-49d7-a573-b27ab8a9101c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="float3.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="c_background.h">
+      <Filter>리소스 파일\c_background</Filter>
+    </ClInclude>
+    <ClInclude Include="c_ship.h">
+      <Filter>리소스 파일\c_ship</Filter>
+    </ClInclude>
+    <ClInclude Include="texture.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="c_land.h">
+      <Filter>리소스 파일\c_background\c_land</Filter>
+    </ClInclude>
+    <ClInclude Include="c_sky.h">
+      <Filter>리소스 파일\c_background\c_sky</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>리소스 파일\c_sound</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="c_missile.h">
+      <Filter>리소스 파일\c_missile</Filter>
+    </ClInclude>
+    <ClInclude Include="c_light.h">
+      <Filter>리소스 파일\c_light</Filter>
+    </ClInclude>
+    <ClInclude Include="objloader.h">
+      <Filter>리소스 파일\objLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="singleton.h">
+      <Filter>리소스 파일\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>리소스 파일\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="c_scene.h">
+      <Filter>리소스 파일\c_scene</Filter>
+    </ClInclude>
+    <ClInclude Include="c_ui.h">
+      <Filter>리소스 파일\c_ui</Filter>
+    </ClInclude>
+    <ClInclude Include="c_weather.h">
+      <Filter>리소스 파일\c_weather</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="termP.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_background.cpp">
+      <Filter>리소스 파일\c_background</Filter>
+    </ClCompile>
+    <ClCompile Include="c_ship.cpp">
+      <Filter>리소스 파일\c_ship</Filter>
+    </ClCompile>
+    <ClCompile Include="texture.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c_land.cpp">
+      <Filter>리소스 파일\c_background\c_land</Filter>
+    </ClCompile>
+    <ClCompile Include="c_sky.cpp">
+      <Filter>리소스 파일\c_background\c_sky</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>리소스 파일\c_sound</Filter>
+    </ClCompile>
+    <ClCompile Include="c_missile.cpp">
+      <Filter>리소스 파일\c_missile</Filter>
+    </ClCompile>
+    <ClCompile Include="c_light.cpp">
+      <Filter>리소스 파일\c_light</Filter>
+    </ClCompile>
+    <ClCompile Include="objloader.cpp">
+      <Filter>리소스 파일\objLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>리소스 파일\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="c_scene.cpp">
+      <Filter>리소스 파일\c_scene</Filter>
+    </ClCompile>
+    <ClCompile Include="c_ui.cpp">
+      <Filter>리소스 파일\c_ui</Filter>
+    </ClCompile>
+    <ClCompile Include="c_weather.cpp">
+      <Filter>리소스 파일\c_weather</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="termP.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

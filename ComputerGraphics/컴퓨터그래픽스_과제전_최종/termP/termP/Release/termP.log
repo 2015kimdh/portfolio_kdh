@@ -1,0 +1,40 @@
+﻿  c_ship.cpp
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.h(123): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(109): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(156): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(163): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(164): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(177): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(178): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(206): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(269): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(273): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(280): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(284): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(291): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(295): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(302): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(306): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(317): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(324): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(328): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(381): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(385): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(402): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(406): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(436): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(467): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(498): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(529): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(559): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(624): warning C4244: '=': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(625): warning C4244: '=': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(626): warning C4244: '=': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(826): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\장우석\desktop\termp1012\termp\termp\c_ship.cpp(850): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  2 of 882 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  termP.vcxproj -> C:\Users\장우석\Desktop\termP1012\termP\Release\termP.exe
